@@ -27,7 +27,7 @@
   "devDependencies": {
     "browserify": "1.10.9",
     "coffee-script": "~1.7.1",
-    "express": "3.2.5",
+    "express": "4.17.1",
     "temp": "~0.4.0",
     "ps-tree": "~0.0.2",
     "vows": "~0.7.0",
